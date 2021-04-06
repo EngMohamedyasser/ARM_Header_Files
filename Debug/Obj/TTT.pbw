@@ -73934,34 +73934,6 @@
     "scope": null
   },
   {
-    "ID": "c:@F@delay",
-    "What": "Function",
-    "defdec": "Def",
-    "display": "void delay(void)",
-    "location": {
-      "column": "6",
-      "line": "19",
-      "path": "D:\\Embedded\\Repo\\tt\\main.c"
-    },
-    "name": "delay",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
-    "ID": "c:main.c@327@F@delay@counter",
-    "What": "Variable",
-    "defdec": "Def",
-    "display": "counter",
-    "location": {
-      "column": "5",
-      "line": "20",
-      "path": "D:\\Embedded\\Repo\\tt\\main.c"
-    },
-    "name": "counter",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
     "ID": "c:interface.h@31@macro@_INTERFACE_H_",
     "What": "MacroDef",
     "defdec": "Def",
