@@ -73892,7 +73892,7 @@
     "scope": null
   },
   {
-    "ID": "c:headers.h@407@macro@GREEN_LED",
+    "ID": "c:headers.h@413@macro@GREEN_LED",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "GREEN_LED",
@@ -73906,7 +73906,7 @@
     "scope": null
   },
   {
-    "ID": "c:headers.h@428@macro@BLUE_LED",
+    "ID": "c:headers.h@440@macro@BLUE_LED",
     "What": "MacroDef",
     "defdec": "Def",
     "display": "BLUE_LED",
@@ -73916,6 +73916,20 @@
       "path": "D:\\Embedded\\Repo\\tt\\headers.h"
     },
     "name": "BLUE_LED",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:headers.h@466@macro@CLOCK_GATING_BIT",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "CLOCK_GATING_BIT",
+    "location": {
+      "column": "9",
+      "line": "13",
+      "path": "D:\\Embedded\\Repo\\tt\\headers.h"
+    },
+    "name": "CLOCK_GATING_BIT",
     "origin": "system_include",
     "scope": null
   },
