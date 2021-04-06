@@ -2370,10 +2370,13 @@
         </settings>
     </configuration>
     <file>
+        <name>$PROJ_DIR$\Functions.c</name>
+    </file>
+    <file>
         <name>$PROJ_DIR$\headers.h</name>
     </file>
     <file>
-        <name>$PROJ_DIR$\Interface.h</name>
+        <name>$PROJ_DIR$\interface.h</name>
     </file>
     <file>
         <name>$PROJ_DIR$\lm4f120h5qr.h</name>

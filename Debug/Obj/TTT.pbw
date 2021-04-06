@@ -1,5 +1,75 @@
 [
   {
+    "ID": "c:@F@delay",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void delay(void)",
+    "location": {
+      "column": "6",
+      "line": "2",
+      "path": "D:\\Embedded\\Repo\\tt\\Functions.c"
+    },
+    "name": "delay",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:Functions.c@43@F@delay@counter",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "counter",
+    "location": {
+      "column": "5",
+      "line": "3",
+      "path": "D:\\Embedded\\Repo\\tt\\Functions.c"
+    },
+    "name": "counter",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:interface.h@31@macro@_INTERFACE_H_",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "_INTERFACE_H_",
+    "location": {
+      "column": "9",
+      "line": "2",
+      "path": "D:\\Embedded\\Repo\\tt\\interface.h"
+    },
+    "name": "_INTERFACE_H_",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@delay",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void delay(void)",
+    "location": {
+      "column": "6",
+      "line": "3",
+      "path": "D:\\Embedded\\Repo\\tt\\interface.h"
+    },
+    "name": "delay",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@delay",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void delay(void)",
+    "location": {
+      "column": "6",
+      "line": "3",
+      "path": "D:\\Embedded\\Repo\\tt\\interface.h"
+    },
+    "name": "delay",
+    "origin": "system_include",
+    "scope": null
+  },
+  {
     "ID": "c:lm4f120h5qr.h@2030@macro@__LM4F120H5QR_H__",
     "What": "MacroDef",
     "defdec": "Def",
@@ -73940,39 +74010,11 @@
     "display": "int main(void)",
     "location": {
       "column": "5",
-      "line": "6",
+      "line": "7",
       "path": "D:\\Embedded\\Repo\\tt\\main.c"
     },
     "name": "main",
     "origin": "project_file",
-    "scope": null
-  },
-  {
-    "ID": "c:interface.h@31@macro@_INTERFACE_H_",
-    "What": "MacroDef",
-    "defdec": "Def",
-    "display": "_INTERFACE_H_",
-    "location": {
-      "column": "9",
-      "line": "2",
-      "path": "D:\\Embedded\\Repo\\tt\\interface.h"
-    },
-    "name": "_INTERFACE_H_",
-    "origin": "system_include",
-    "scope": null
-  },
-  {
-    "ID": "c:@F@delay",
-    "What": "Function",
-    "defdec": "Dec",
-    "display": "void delay(void)",
-    "location": {
-      "column": "6",
-      "line": "3",
-      "path": "D:\\Embedded\\Repo\\tt\\interface.h"
-    },
-    "name": "delay",
-    "origin": "system_include",
     "scope": null
   }
 ]

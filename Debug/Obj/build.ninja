@@ -20,8 +20,9 @@ rule browsedata
 
 
 #Build steps
+build Functions.pbi : index Functions.xcl
 build main.pbi : index main.xcl
-build TTT.pbd : link main.pbi
+build TTT.pbd : link Functions.pbi main.pbi
 build TTT.pbw : browsedata TTT.pbd
 
 
